@@ -1,4 +1,4 @@
-# File-cracket-pro
+# File-cloner-pro
 This is for file cloning
 # Install method
 apt update
