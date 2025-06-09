@@ -36,11 +36,11 @@
     "landings": "00 00 00 00 00 00 80 3f 00 00 00 00 00 00 00 00 00 00 80 bf 00 00 00 00 00 00 80 bf 00 00 00 00 00 00 00 00 00 00 80 3f 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 80 3f 00 00 00 00 00 00 00 00 00 00 80 bf 00 00 80 7f 00 00 80 7f 00 00 80 7f 00 00 80 ff",
     "landingr": "00 00 00 00 00 00 00 43",
     "neckr": 168,
-    "neckw": 220,
+    "neckw": 216,
     "dragr": 168,
     "dragw": 220,
     "aimbotexr": 168,
-    "aimbotexw": 220,
+    "aimbotexw": 172,
     "noti": "If our panel working fine then Give Feedback in Discord Server 😍😍😪",
     "bot": [ "D0","20","E0","90", "40", "18"]
  
