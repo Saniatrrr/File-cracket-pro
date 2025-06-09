@@ -41,6 +41,11 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 216,
+    "Botoffset": 544,
+    "Deadoffset": 912,
+    "Knockoffset": 1652,
+    "Deadvalue": "01",
+    "Knockvalue": "02",
     "noti": "If our panel working fine then Give Feedback in Discord Server 😍😍😪",
     "bot": [ "D0","20","E0","90", "40", "18"]
  
