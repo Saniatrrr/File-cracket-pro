@@ -41,13 +41,13 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 216,
-    "Botoffset": 544,
-    "Deadoffset": 912,
-    "Knockoffset": 1652,
-    "Matchoffset": 406,
+    "Botoffset": 372,
+    "Deadoffset": 740,
+    "Knockoffset": 1480,
+    "Matchoffset": 244,
     "Deadvalue": "01",
     "Knockvalue": "02",
-    "noti": "Dear User Aimbot Update complate for more Safety...........",
+    "noti": "Dear User Aimbot Update complate for more Safety...........😎😎",
     "bot": ["D0","20","E0","90", "40", "18"]
  
 }
