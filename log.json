@@ -41,6 +41,12 @@
     "dragw": 220,
     "aimbotexr": 168,
     "aimbotexw": 172,
+    "neckr64": 180,
+    "neckw64": 188,
+    "dragr64": 180,
+    "dragw64": 240,
+    "aimbotexr64": 180,
+    "aimbotexw64": 188,
     "noti": "Dear User Aimbot Update complate for more Safety...........😎😎",
     "bot": ["D0","20","E0","90", "40", "18"]
  
